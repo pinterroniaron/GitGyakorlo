@@ -31,3 +31,11 @@
 
 - git status
 - git log
+
+## 7. Lokális változások feltöltése a távoli repóba
+
+- git push
+
+## 8. Távoli repó másolása (klónozása) a lokális gépre
+
+- git clone "távoli repó URL címe"
