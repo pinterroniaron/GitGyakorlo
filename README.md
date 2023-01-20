@@ -7,8 +7,8 @@
 
 ## 2. Konfigurációs parancsok
 
-- git config --global user.name hmate06
-- git config --global user.email horvath.mate3@students.jedlik.eu
+- git config --global user.name pinterroniaron
+- git config --global user.email pinter.roni.aron@students.jedlik.eu
 - git config --global ceredential.helper wincred
 
 ## 3. Repository létrehozása
